@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Vinícius+;tenho+17+anos;Atualmente+Cursando+TI;Bom,+Bem-vindo!+:%29)](https://git.io/typing-svg) 
+<h1>Hello, welcome, my name is Vinícius </h1> 
 
 
 
